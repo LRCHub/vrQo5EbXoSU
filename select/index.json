@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ハイパーメルト",
+  "base_artist": "東京真中",
+  "createdAt": "2026-03-31T15:10:31.801114Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハイパーメルト",
+      "artist": "東京真中",
+      "has_synced": false,
+      "path": "select/pl_01_ハイパーメルト_東京真中.txt"
+    }
+  ]
+}
